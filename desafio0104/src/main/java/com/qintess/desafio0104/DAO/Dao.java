@@ -1,6 +1,5 @@
 package com.qintess.desafio0104.DAO;
 
-import java.lang.reflect.ParameterizedType;
 import java.util.List;
 
 import org.hibernate.Session;
